@@ -11,7 +11,7 @@ rare_gaps.py
 figure1.py  
 
 figure2.py  
-
+<img src=/figure2.svg width="300">  
 figure3.py  
 <img src=/figure3.svg width="1000">  
 figure4.py  
