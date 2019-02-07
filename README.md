@@ -1,4 +1,4 @@
-# Data wrangling & workflow automation - Python  
+# Data wrangling & workflow automation
 primer_design.py  
 sanger_map.py  
 annotate_xncv.py  
