@@ -12,7 +12,7 @@ figure1.py
 figure2.py  
 figure3.py  
 figure4.py  
-![figure4](/figure4.svg)
+<img src=/figure4.svg width="500">
 
 # Pipelining
 preprocess.sh  
