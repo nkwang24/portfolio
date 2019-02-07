@@ -3,6 +3,8 @@
 Created on Thu Nov 9 12:49:23 2017
 
 @author: nkwang
+
+Batch primer design from list of target region coordinates
 """
 
 import csv
