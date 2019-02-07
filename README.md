@@ -13,7 +13,7 @@ figure1.py
 figure2.py  
 
 figure3.py  
-
+<img src=/figure3.svg width="500">
 figure4.py  
 <img src=/figure4.svg width="500">
 
