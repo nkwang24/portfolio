@@ -12,7 +12,7 @@ figure1.py
 figure2.py  
 figure3.py  
 figure4.py  
-![](/figure4.svg){:height="50%" width="50%"}
+![figure4](/figure4.svg)
 
 # Pipelining
 preprocess.sh  
