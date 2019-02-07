@@ -12,7 +12,7 @@ figure1.py
 figure2.py  
 figure3.py  
 figure4.py  
-
+![Alt text](/figure4.png?raw=true "Title")
 
 # Pipelining
 preprocess.sh  
