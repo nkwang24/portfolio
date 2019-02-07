@@ -8,6 +8,10 @@ annotate_xncv.py
 rare_gaps.py  
 
 # Data Visualization
+figure1.py  
+figure2.py  
+figure3.py  
+figure4.py  
 
 
 # Pipelining
