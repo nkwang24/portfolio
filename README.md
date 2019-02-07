@@ -11,11 +11,11 @@ rare_gaps.py
 figure1.py  
 
 figure2.py  
-<img src=/figure2.svg width="300">  
+<img src=/figure2.svg width="350">  
 figure3.py  
-<img src=/figure3.svg width="1000">  
+<img src=/figure3.svg width="1100">  
 figure4.py  
-<img src=/figure4.svg width="500">
+<img src=/figure4.svg width="550">
 
 # Pipelining
 preprocess.sh  
