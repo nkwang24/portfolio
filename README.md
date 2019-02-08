@@ -9,7 +9,7 @@ rare_gaps.py
 
 # Data Visualization
 figure1.py  
-
+<img src=/figure1.svg width="700">  
 figure2.py  
 <img src=/figure2.svg width="350">  
 figure3.py  
